@@ -1,0 +1,20 @@
+
+
+td, th {
+    border: 1px solid black;
+}
+table {
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 400px;
+}
+ul li, a {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.manager {
+    color: red;
+    font-weight: bold;
+}
